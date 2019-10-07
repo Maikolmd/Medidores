@@ -1,0 +1,8 @@
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\bin\Debug\MedidoresCliente.exe.config
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\bin\Debug\MedidoresCliente.exe
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\bin\Debug\MedidoresCliente.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\bin\Debug\ServidorSocketUtils.dll
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\bin\Debug\ServidorSocketUtils.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\obj\Debug\MedidoresCliente.csprojResolveAssemblyReference.cache
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\obj\Debug\MedidoresCliente.exe
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresCliente\obj\Debug\MedidoresCliente.pdb

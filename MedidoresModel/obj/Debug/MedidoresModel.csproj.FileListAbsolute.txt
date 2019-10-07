@@ -1,0 +1,5 @@
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresModel\bin\Debug\MedidoresModel.dll
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresModel\bin\Debug\MedidoresModel.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresModel\obj\Debug\MedidoresModel.dll
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresModel\obj\Debug\MedidoresModel.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\MedidoresModel\obj\Debug\MedidoresModel.csprojResolveAssemblyReference.cache

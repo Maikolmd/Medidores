@@ -1,0 +1,11 @@
+C:\Users\joaqu\Documents\Visual Studio 2015\Projects\Medidores\Medidores\bin\Debug\Medidores.exe.config
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\Medidores.exe.config
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\Medidores.exe
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\Medidores.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\MedidoresModel.dll
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\ServidorSocketUtils.dll
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\ServidorSocketUtils.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\bin\Debug\MedidoresModel.pdb
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\obj\Debug\MedidoresServidor.csprojResolveAssemblyReference.cache
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\obj\Debug\Medidores.exe
+G:\INACAP2019\Programacion Avanzada\Medidores\Medidores\obj\Debug\Medidores.pdb
